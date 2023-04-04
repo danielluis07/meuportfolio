@@ -79,7 +79,7 @@ const Contact = () => {
             <form
               target="_blank"
               onSubmit={onSubmit}
-              action="https://formsubmit.co/bombdaniel@hotmail.com"
+              action="https://formsubmit.co/67c96815e537ef0f878723530f82bffa"
               method="POST"
               className="space-y-8 w-full max-w-[780px]">
               <div className="flex flex-col gap-8 sm:flex">
