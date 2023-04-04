@@ -44,7 +44,7 @@ const Services = () => {
               hidden: { opacity: 0, x: -50 },
               visible: { opacity: 1, x: 0 },
             }}>
-            <div className="bg-secondary p-6 rounded-2xl">
+            <div className="bg-secondary p-6 rounded-2xl cursor-default sm:hover:bg-gray-800">
               <div className="text-sky-500 rounded-sm w-12 h-12 flex justify-center items-center mb-24 text-[28px]">
                 <FiPenTool />
               </div>
@@ -65,7 +65,7 @@ const Services = () => {
               hidden: { opacity: 0, x: -50 },
               visible: { opacity: 1, x: 0 },
             }}>
-            <div className="bg-secondary p-6 rounded-2xl">
+            <div className="bg-secondary p-6 rounded-2xl cursor-default sm:hover:bg-gray-800">
               <div className="text-sky-500 rounded-sm w-12 h-12 flex justify-center items-center mb-24 text-[28px]">
                 <FiSettings />
               </div>
@@ -87,7 +87,7 @@ const Services = () => {
               hidden: { opacity: 0, x: -50 },
               visible: { opacity: 1, x: 0 },
             }}>
-            <div className="bg-secondary p-6 rounded-2xl">
+            <div className="bg-secondary p-6 rounded-2xl cursor-default sm:hover:bg-gray-800">
               <div className="text-sky-500 rounded-sm w-12 h-12 flex justify-center items-center mb-24 text-[28px]">
                 <FiLayout />
               </div>
@@ -109,7 +109,7 @@ const Services = () => {
               hidden: { opacity: 0, x: -50 },
               visible: { opacity: 1, x: 0 },
             }}>
-            <div className="bg-secondary p-6 rounded-2xl">
+            <div className="bg-secondary p-6 rounded-2xl cursor-default sm:hover:bg-gray-800">
               <div className="text-sky-500 rounded-sm w-12 h-12 flex justify-center items-center mb-24 text-[28px]">
                 <FiTag />
               </div>
