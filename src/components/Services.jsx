@@ -50,7 +50,7 @@ const Services = () => {
               </div>
               <h4 className="text-xl font-medium mb-2">Design</h4>
               <p>
-                O desenho do site, com o planejamento de imagens desenhos e de
+                O desenho do site, com o planejamento das imagens, desenhos e de
                 onde irão ficar posicionados os principais elementos da página
               </p>
             </div>
