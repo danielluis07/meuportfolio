@@ -34,7 +34,7 @@ const About = () => {
                   visible: { opacity: 1, x: 0 },
                 }}>
                 <h2 className="text-3xl lg:text-4xl font-medium lg:font-extrabold mb-3">
-                  Daniel Luís
+                  Daniel Assunção
                 </h2>
                 <p className="mb-4 text-sky-500">Desenvolvedor Front-End</p>
                 <hr className="mb-8 opacity-5" />
