@@ -29,6 +29,7 @@ import SkillImg8 from "./assets/img/skills/figma.png";
 import TestiImage1 from "./assets/img/testimonials/codecamey.png";
 import TestiImage2 from "./assets/img/testimonials/udemy.png";
 import TestiImage3 from "./assets/img/testimonials/prodabel.png";
+import TestiImage4 from "./assets/img/testimonials/estacio-logo.jpg";
 
 // navigation
 export const navigation = [
@@ -49,7 +50,7 @@ export const navigation = [
     href: "services",
   },
   {
-    name: "certificados",
+    name: "educação",
     href: "testimonials",
   },
   {
@@ -172,6 +173,13 @@ export const testimonials = [
   },
   {
     authorImg: TestiImage3,
+    authorText:
+      "Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.",
+    authorName: "Olivia Doe",
+    authorPosition: "Head of Design, Google",
+  },
+  {
+    authorImg: TestiImage4,
     authorText:
       "Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.",
     authorName: "Olivia Doe",

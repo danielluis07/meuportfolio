@@ -16,12 +16,13 @@ const Testimonials = () => {
               hidden: { opacity: 0, x: -50 },
               visible: { opacity: 1, x: 0 },
             }}>
-            <h2 className="section-title">Meus Certificados</h2>
+            <h2 className="section-title">Educação</h2>
             <p className="subtitle">
-              Os meus certificados incluem organizações renomadas como
-              Codecademy e Udemy, duas das maiores plataformas de aprendizado
-              para desenvolvedores no mundo, além da Prodabel, empresa de
-              informática do município de Belo Horizonte
+              Grande parte de meu conhecimento vem de organizações renomadas,
+              como a faculdade Estácio, além de Codecademy, uma das maiores
+              plataformas de aprendizado para desenvolvedores no mundo. Possuo
+              também certificados da Udemy e Prodabel - empresa de informática
+              do município de Belo Horizonte
             </p>
           </motion.div>
         </div>
