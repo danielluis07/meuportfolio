@@ -4,6 +4,7 @@ import Project3 from "../assets/img/projects/p3.png";
 import Project4 from "../assets/img/projects/p4.png";
 import Project5 from "../assets/img/projects/p5.png";
 import Project6 from "../assets/img/projects/p6.png";
+import Project7 from "../assets/img/projects/p7.png";
 import { motion } from "framer-motion";
 
 const container = {
@@ -143,13 +144,11 @@ const Projects = () => {
           }}>
           <div className="flex flex-col items-center text-center">
             <div className="mb-8">
-              <img className="rounded-2xl" src={Project6} alt="academia" />
+              <img className="rounded-2xl" src={Project7} alt="academia" />
             </div>
             <h3 className="text-2xl font-semibold capitalize mb-3 hover:text-sky-500">
-              <a
-                href="https://danielluis07.github.io/academia/"
-                target="_blank">
-                Academia
+              <a href="https://menssagens-top.vercel.app/" target="_blank">
+                MensagensTop
               </a>
             </h3>
           </div>
