@@ -61,8 +61,10 @@ const Projects = () => {
               <img className="rounded-2xl" src={Project2} alt="netflix" />
             </div>
             <h3 className="text-2xl font-semibold capitalize mb-3 hover:text-sky-500">
-              <a href="https://filmes-topaz.vercel.app/" target="_blank">
-                Clone Netflix
+              <a
+                href="https://musicas-sempagamento.vercel.app/"
+                target="_blank">
+                Músicas para Todos
               </a>
             </h3>
           </div>
