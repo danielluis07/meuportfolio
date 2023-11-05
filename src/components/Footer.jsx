@@ -20,14 +20,14 @@ const Footer = () => {
             <img src={Logo} alt="" />
           </div>
           <div className="flex justify-center items-center gap-3">
-            <a href="https://wa.me/5547988661111" target="blank">
+            <a href="https://wa.me/5547988744602" target="blank">
               <img
                 className="hover:animate-pulse"
                 src={whatsLogo}
                 alt="whats"
               />
             </a>
-            <p>(47) 98866-1111</p>
+            <p>(47) 98874-4602</p>
           </div>
         </div>
       </div>
