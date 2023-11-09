@@ -33,7 +33,7 @@ const Hero = () => {
               </p>
               <div className="flex justify-center sm:justify-start">
                 <button className="btn btn-md bg-sky-500 hover:text-sky-500 md:btn-lg transition-all">
-                  <a href="https://wa.me/5547988661111" target="blank">
+                  <a href="https://wa.me/5547988744602" target="blank">
                     Entre em contato
                   </a>
                 </button>
